@@ -64,3 +64,5 @@ author: polyirbis
 * Soy terriblemente obsesivo con el detalle
 * Tengo paciencia, pero cuando la pierdo tiendo a enojarme bastante
 * Tengo muchos miedos e inseguridades por superar
+
+### Calificación: 3/5
