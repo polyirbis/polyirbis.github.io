@@ -15,7 +15,7 @@ Mi competencia directa son los artistas de props, vehículos y armas estilizadas
 
 
 ### Caso 1:
-<amp-img width="532" height="300" layout="responsive" src="/assets/images/Toon-Racing.jpg"></amp-img>
+<amp-img width="532" height="300" layout="responsive" src="assets/images/Toon-racing.jpg"></amp-img>
 <cite>Toon Racing: Recuperado de Unity Asset Store</cite><br />
 * <strong>Título:</strong> Toon Racing
 * <strong>Plataforma de distribución:</strong> Unity Asset Store
@@ -23,7 +23,7 @@ Mi competencia directa son los artistas de props, vehículos y armas estilizadas
 * <strong>Descripción Breve:</strong> Contiene 24 vehículos construidos con dispositivos móviles en mente, con texturas de 128 x 128px. Los modelos no superan los 7000 polígonos. Incluye un kit para construir pistas. El creador tiene varios kits de la misma serie, tales como Toon City, Toon Vehicles y Toon Planes
 * <strong>Selling Points:</strong> Listo para móviles, con texturas pequeñas
 * <strong>Debilidades:</strong> Se limita a vista top-down
-* <strong>Link:</strong> <a href="https://assetstore.unity.com/packages/3d/vehicles/land/toon-racing-102727s">Toy Racing</a>
+* <strong>Link:</strong> <a href="https://assetstore.unity.com/packages/3d/vehicles/land/toon-racing-102727s">Toon Racing</a>
 <br />
 
 
