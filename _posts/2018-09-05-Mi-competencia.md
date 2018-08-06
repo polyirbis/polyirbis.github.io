@@ -15,76 +15,82 @@ Mi competencia directa son los artistas de props, vehículos y armas estilizadas
 
 
 ### Caso 1:
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
-The <cite>cite element</cite> example <br />
-* <strong>Título:</strong>
-* <strong>Plataforma de distribución:</strong>
-* <strong>Precio:</strong>
-* <strong>Descripción Breve:</strong>
-* <strong>Selling Points:</strong>
-* <strong>Debilidades:</strong>
+<amp-img width="532" height="300" layout="responsive" src="/assets/images/Toon-Racing.jpg"></amp-img>
+<cite>Toon Racing: Recuperado de Unity Asset Store</cite><br />
+* <strong>Título:</strong> Toon Racing
+* <strong>Plataforma de distribución:</strong> Unity Asset Store
+* <strong>Precio:</strong> $28
+* <strong>Descripción Breve:</strong> Contiene 24 vehículos construidos con dispositivos móviles en mente, con texturas de 128 x 128px. Los modelos no superan los 7000 polígonos. Incluye un kit para construir pistas. El creador tiene varios kits de la misma serie, tales como Toon City, Toon Vehicles y Toon Planes
+* <strong>Selling Points:</strong> Listo para móviles, con texturas pequeñas
+* <strong>Debilidades:</strong> Se limita a vista top-down
+* <strong>Link:</strong> <a href="https://assetstore.unity.com/packages/3d/vehicles/land/toon-racing-102727s">Toy Racing</a>
 <br />
 
 
 ### Caso 2:
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
-The <cite>cite element</cite> example <br />
-* <strong>Título:</strong>
-* <strong>Plataforma de distribución:</strong>
-* <strong>Precio:</strong>
-* <strong>Descripción Breve:</strong>
-* <strong>Selling Points:</strong>
-* <strong>Debilidades:</strong>
+<amp-img width="514" height="300" layout="responsive" src="assets/images/GAZ.png"></amp-img>
+<cite>Gaz 66 Truck, recuperado de Sketchfab </cite> <br />
+* <strong>Título:</strong> GAZ 66 Truck
+* <strong>Plataforma de distribución:</strong> Sketchfab
+* <strong>Precio:</strong> $10
+* <strong>Descripción Breve:</strong> Modelo pintado a mano de un camión GAZ, con 3900 polígonos, con rig, mapa de UVs y texturas en formato Diffuse/ Normal
+* <strong>Selling Points:</strong> Buen trabajo de color, geometría, rigging y animación. Optimizado para dispositivos móviles
+* <strong>Debilidades:</strong> Falta de integración con mapas PBR
+* <strong>Link:</strong> <a href="https://sketchfab.com/models/275e1879e8034019ba480a5ca6ac7d05">GAZ 66</a>
 <br />
 
 
 ### Caso 3:
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
-The <cite>cite element</cite> example <br />
-* <strong>Título:</strong>
-* <strong>Plataforma de distribución:</strong>
-* <strong>Precio:</strong>
-* <strong>Descripción Breve:</strong>
-* <strong>Selling Points:</strong>
-* <strong>Debilidades:</strong>
+<amp-img width="577" height="324" layout="responsive" src="assets/images/Polygon Nature.png"></amp-img>
+<cite>Recuperado de Unreal Marketplace</cite> <br />
+* <strong>Título:</strong> Polygon- Nature Pack
+* <strong>Plataforma de distribución:</strong> Unreal Marketplace
+* <strong>Precio:</strong> $50
+* <strong>Descripción Breve:</strong> Es un pack de naturaleza low poly optimizado para usarse en videojuegos de PC y consolas, con texturas principalmente en 2K, 1K y 8K. Tiene modelos animados y materiales de Unreal, efectos de partículas y área de pantano. No tiene LODs y parece no tener intención de optimizarse para dispositivos móviles.
+* <strong>Selling Points:</strong> Modelos estilizados de naturaleza de alta calidad
+* <strong>Debilidades:</strong> No está optimizado para dispositivos móviles
+* <strong>Link:</strong>  <a href="https://www.unrealengine.com/marketplace/polygon-nature-pack">Polygon Nature</a>
 <br />
 
 
 ### Quién es mi competencia indirecta?
 Mi competencia indirecta son los artistas de modelos estilizados, no necesariamente props, vendiéndolos en tiendas como Sketchfab, Unity Asset Store así como el Unreal Marketplace.
 ### Caso 1:
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
-The <cite>cite element</cite> example <br />
-* <strong>Título:</strong>
-* <strong>Plataforma de distribución:</strong>
-* <strong>Precio:</strong>
-* <strong>Descripción Breve:</strong>
-* <strong>Selling Points:</strong>
-* <strong>Debilidades:</strong>  
+<amp-img width="600" height="383" layout="responsive" src="assets/images/Sci Fi Tunnel.jpg"></amp-img>
+ <cite>Recuperado de Bitgem 3D</cite><br />
+* <strong>Título:</strong> SCI-FI TUNNEL - ZUGZUG STUDIO
+* <strong>Plataforma de distribución:</strong> Bitgem
+* <strong>Precio:</strong> $12.89
+* <strong>Descripción Breve:</strong> Unity Package con módulos Sci Fi de Bitgem, una plataforma para la distribución de modelos estilizados, pintados a mano
+* <strong>Selling Points:</strong> Buena calidad de modelado, optimizado para dispositivos móviles
+* <strong>Debilidades:</strong>  Ninguna observable
+* <strong>Link:</strong>  <a href="https://shop.bitgem3d.com/collections/hand-painted-3d-models/products/sci-fi-tunnel-zugzug-studio">Sci-Fi Tunnel</a>
 <br />
 
 
 ### Caso 2:
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
-The <cite>cite element</cite> example <br />
-* <strong>Título:</strong>
-* <strong>Plataforma de distribución:</strong>
-* <strong>Precio:</strong>
-* <strong>Descripción Breve:</strong>
-* <strong>Selling Points:</strong>
-* <strong>Debilidades:</strong>  
+<amp-img width="600" height="300" layout="responsive" src="assets/images/Stylized 3D Home.jpg"></amp-img>
+<cite>Recuperado de Turbosquid</cite> <br />
+* <strong>Título:</strong> Stylized House 3D Model
+* <strong>Plataforma de distribución:</strong> Turbosquid
+* <strong>Precio:</strong> $49
+* <strong>Descripción Breve:</strong> Modelo de casa estilizado con cerca de 20k polígonos, optimizado para animación (render en V-Ray), pero con la posibilidad de integrarse a videojuegos
+* <strong>Selling Points:</strong> Funciona para animación y los materiales son de alta calidad
+* <strong>Debilidades:</strong> Poligonaje relativamente alto para el target que busco, puede que las texturas no estén optimizadas para usarse en videojuegos 
+* <strong>Link:</strong>  <a href="https://www.turbosquid.com/3d-models/stylized-house-3d-model-1279437">Stylized House</a>
 <br />
 
 
 ### Caso 3:
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
-The <cite>cite element</cite> example <br />
-* <strong>Título:</strong>
-* <strong>Plataforma de distribución:</strong>
-* <strong>Precio:</strong>
-* <strong>Descripción Breve:</strong>
-* <strong>Selling Points:</strong>
-* <strong>Debilidades:</strong>  
+<amp-img width="526" height="300" layout="responsive" src="assets/images/Ghouls.jpg"></amp-img>
+<cite>Recuperado de Bitgem 3D</cite> <br />
+* <strong>Título:</strong> 5 Ghoul Monsters
+* <strong>Plataforma de distribución:</strong> Bitgem, Sketchfab
+* <strong>Precio:</strong> $ 50 ($15 por cada uno si se compra por separado)
+* <strong>Descripción Breve:</strong> 5 Ghouls pintados a mano, low poly, animados, con rig y mapas de texturas Diffuse y Normal, creados en Maya LT
+* <strong>Selling Points:</strong> Personajes pintados a mano, riggeados, animados y listos para integrarse en videojuegos
+* <strong>Debilidades:</strong>  Ninguna observable
+* <strong>Link:</strong>  <a href="https://shop.bitgem3d.com/collections/hand-painted-3d-models/products/sci-fi-tunnel-zugzug-studio">5 Ghouls</a>
 <br />
 
 
