@@ -108,7 +108,7 @@ En tiendas de assets como el Unity Asset Store o el Unreal Marketplace a manera 
 Distribuyendo modelos de manera gratuita, haciendo una página en ArtStation y en Sketchfab donde detalle el proceso de creación de los assets, así como promoción en grupos de Discord y redes sociales como Facebook y Twitter. Hacer un fanbase o una base de clientes leal es crucial para el éxito del proyecto
 
 ### Mis selling points:
-1. Modelos atractivos, bien optimizados
+1. Modelos atractivos, bien optimizados para dispositivos móviles
 2. Uso de mapas de renderizado en Unity, así como shaders
 3. Inclusión de herramientas que facilitan la integración de los assets en proyectos
 4. Buenas prácticas de modelado y formatos estándar que aseguran la estabilidad de estos en el motor de juegos
