@@ -4,7 +4,7 @@ description: Proyecto Final para la Licenciatura en Diseño de Videojuegos, SAE 
 cover: assets/images/cover.png
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
+baseurl: "/blog" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://polyirbis.github.io/" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
@@ -37,13 +37,13 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: samanyougarg #github username
-repo: hanuman #github repository
+username: polyirbis #github username
+repo: polyirbis.github.io #github repository
 branch: master #branch
-relative_source: ../ #source directory
-destination: ../hanuman-pages/ #destination directory
+relative_source: ../blog/ #source directory
+destination: ../blog-pages/ #destination directory
 production_url:  https://polyirbis.github.io/
-source_url:  https://github.com/samanyougarg/hanuman #source repository url
+source_url:  https://github.com/polyirbis/polyirbis.github.io/ #source repository url
 
 exclude:
   - README.md
