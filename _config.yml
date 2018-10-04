@@ -4,7 +4,7 @@ description: Proyecto Final para la Licenciatura en Diseño de Videojuegos, SAE 
 cover: assets/images/cover.png
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/ or / for root
+baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://polyirbis.github.io/" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
@@ -40,7 +40,7 @@ lsi: False
 username: polyirbis #github username
 repo: polyirbis.github.io #github repository
 branch: master #branch
-relative_source: ../blog/ #source directory
+relative_source: ../ #source directory
 destination: ../blog-pages/ #destination directory
 production_url:  https://polyirbis.github.io/
 source_url:  https://github.com/polyirbis/polyirbis.github.io/ #source repository url
