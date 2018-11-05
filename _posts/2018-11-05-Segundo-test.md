@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Primer prueba de Concepto y Usabilidad
+title: Segunda prueba de concepto y usabilidad
 date: 2018-11-05 00:00:00
 tags: production
 author: polyirbis
